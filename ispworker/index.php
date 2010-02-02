@@ -1,0 +1,1 @@
+<?header("Location: module/biz/index.php");?>

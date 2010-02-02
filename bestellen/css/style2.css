@@ -1,0 +1,122 @@
+
+body
+{
+	font-family:arial;
+	font-size:12px;
+}
+
+td
+{
+	font-family:arial;
+	font-size:12px;
+}
+
+
+.navtopb
+{
+	font-family:verdana;
+	font-size:11px;
+	color:#ffffff;
+	font-weight:bold;
+}
+
+a.navfat, a.navfat:visited
+{
+	font-family:verdana;
+	font-size:11px;
+	color:#000000;
+	font-weight:bold;
+	text-decoration: none;
+}
+
+a.navfat:hover
+{
+	font-family:verdana;
+	font-size:11px;
+	color:#000000;
+	font-weight:bold;
+	text-decoration:none;
+		
+}
+
+
+a.navtop, a.navtop:visited
+{
+	font-family:verdana;
+	font-size:11px;
+	color:#ffffff;
+	font-weight:bold;
+	text-decoration: none;
+}
+
+a.navtop:hover
+{
+	font-family:verdana;
+	font-size:11px;
+	color:#F8BF24;
+	font-weight:bold;
+	text-decoration:none;
+		
+}
+
+
+a.nav, a.nav:visited
+{
+	font-family:verdana;
+	font-size:11px;
+	color:#000000;
+	text-decoration: none;
+}
+
+a.nav:hover
+{
+	font-family:verdana;
+	font-size:11px;
+	color:#000000;
+	text-decoration:none;
+}
+
+
+a, a:visited
+{
+	color:#000080;
+}
+
+a:hover
+{
+	color:#F8BF24;
+}
+
+
+body {
+    font:		MessageBox;
+    font:		Message-Box;
+}
+	
+	
+input {
+    width:			50px;
+    text-align:			right;
+    padding:			1px;
+    margin-right:		15px;
+}
+			
+input, select, button {
+    vertical-align:		middle;
+}
+			    
+#slider-1 {
+    margin:	10px;
+    width:	auto;
+}
+				    
+#slider-2 {
+    margin:	10px;
+}
+					
+#color-picker {
+    border:		0; /*1px solid rgb(90,97,90);*/
+    width:		350px;
+    height:		80px;
+}
+						    

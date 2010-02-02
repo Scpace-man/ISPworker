@@ -1,0 +1,3 @@
+113;Herr;test;test;test;test;Bochum;44300;PL;00;00;;test@xxx.de;rechnung;00;0;00;0;
+111;Herr;;Max;Mustermann;Musterstrasse;Musterstadt;10000;DE;;;;guido.lenk@gmail.com;lastschrift;nicki;1155;10050023;voba;
+112;Herr;;fdffd;fdfdffd;ssdffsf 1223333333;fsdsa;33333;DE;;;;;lastschrift;;;;;
